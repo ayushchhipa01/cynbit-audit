@@ -1,0 +1,457 @@
+=== AUDIT REPORT FOR https://www.cynbit.in ===
+
+=== [1] PASSIVE AUDIT: https://www.cynbit.in ===
+
+[HEADER EXPOSED] https://www.cynbit.in/... -> x-vercel-id: bom1::4gdd7-1792687454138-3a5c38334609
+[HEADER EXPOSED] https://www.cynbit.in/... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/media/4c9affa5bc8f420e-s.... -> x-vercel-id: bom1::4gdd7-1792687454277-31adf8a29ec8
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/media/4c9affa5bc8f420e-s.... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/css/86d90d3d14dcd9cf.css... -> x-vercel-id: bom1::4gdd7-1792687454292-c977fdb37544
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/css/86d90d3d14dcd9cf.css... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/webpack-13fd2c27c7... -> x-vercel-id: bom1::g2khs-1792687454292-754c828868f9
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/webpack-13fd2c27c7... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/media/636a5ac981f94f8b-s.... -> x-vercel-id: bom1::4gdd7-1792687454292-9bdd3cec6ca3
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/media/636a5ac981f94f8b-s.... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/main-app-0ee650784... -> x-vercel-id: bom1::hlmpz-1792687454292-6d989cb08b18
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/main-app-0ee650784... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/not-found-6bdc... -> x-vercel-id: bom1::2mgxz-1792687454302-e875feaeb8a0
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/not-found-6bdc... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/layout-0a45bc1... -> x-vercel-id: bom1::bkvgg-1792687454302-abc254b1014f
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/layout-0a45bc1... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/te... -> x-vercel-id: bom1::kbpz6-1792687454302-2fb92fe675ca
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/te... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/global-error-2... -> x-vercel-id: bom1::pcxxp-1792687454302-f6d4aa31f02d
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/global-error-2... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/error-8e289473... -> x-vercel-id: bom1::l7l4n-1792687454302-5502ea9915c1
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/error-8e289473... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/1356-2ed480e29f4f7... -> x-vercel-id: bom1::kg6kd-1792687454302-cc2659d8f447
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/1356-2ed480e29f4f7... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/la... -> x-vercel-id: bom1::4wx5j-1792687454302-52619e5a2803
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/la... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/4773-f4ec9607d8ab9... -> x-vercel-id: bom1::46jj7-1792687454303-98ffdd3083b9
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/4773-f4ec9607d8ab9... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/4bd1b696-100b9d70e... -> x-vercel-id: bom1::bxfts-1792687454292-5c0e6cef0f36
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/4bd1b696-100b9d70e... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/logo.svg... -> x-vercel-id: bom1::rd7nr-1792687454292-b304b86c8830
+[HEADER EXPOSED] https://www.cynbit.in/logo.svg... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/2619-04bc32f026a0d... -> x-vercel-id: bom1::4gdd7-1792687454303-eecc7aaa2619
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/2619-04bc32f026a0d... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/5563-f2fb65d9a5ac2... -> x-vercel-id: bom1::jmfhv-1792687454303-454bd9d4b6b8
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/5563-f2fb65d9a5ac2... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/css/fb477f3bddb905c1.css... -> x-vercel-id: bom1::lvhld-1792687454292-77a5e18d2063
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/css/fb477f3bddb905c1.css... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/pa... -> x-vercel-id: bom1::4gdd7-1792687454314-9dd9f7233cf2
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/pa... -> server: Vercel
+[HEADER EXPOSED] https://fonts.googleapis.com/css2?family=Material+Symbols+Ou... -> server: ESF
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/1255-eae4096fb21f1... -> x-vercel-id: bom1::p48r8-1792687454292-c5165bedeb4a
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/1255-eae4096fb21f1... -> server: Vercel
+[HEADER EXPOSED] https://www.googletagmanager.com/gtag/js?id=G-LK6CQWCWX0... -> server: Google Tag Manager
+[HEADER EXPOSED] https://www.cynbit.in/services?_rsc=SCJVgjZa56qhWaZb... -> x-vercel-id: bom1::p48r8-1792687454762-307b92d79986
+[HEADER EXPOSED] https://www.cynbit.in/services?_rsc=SCJVgjZa56qhWaZb... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.2ms | URL: https://www.cynbit.in/services
+[HEADER EXPOSED] https://www.cynbit.in/story?_rsc=SCJVgjZa56qhWaZb... -> x-vercel-id: bom1::rd7nr-1792687454762-f655c44c00a1
+[HEADER EXPOSED] https://www.cynbit.in/story?_rsc=SCJVgjZa56qhWaZb... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.2ms | URL: https://www.cynbit.in/story
+[HEADER EXPOSED] https://www.cynbit.in/team?_rsc=SCJVgjZa56qhWaZb... -> x-vercel-id: bom1::4gdd7-1792687454762-01e4be69afb5
+[HEADER EXPOSED] https://www.cynbit.in/team?_rsc=SCJVgjZa56qhWaZb... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.4ms | URL: https://www.cynbit.in/team
+[HEADER EXPOSED] https://www.cynbit.in/impact?_rsc=SCJVgjZa56qhWaZb... -> x-vercel-id: bom1::jmfhv-1792687454762-0ae5026ffcaa
+[HEADER EXPOSED] https://www.cynbit.in/impact?_rsc=SCJVgjZa56qhWaZb... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.2ms | URL: https://www.cynbit.in/impact
+[HEADER EXPOSED] https://www.cynbit.in/careers?_rsc=SCJVgjZa56qhWaZb... -> x-vercel-id: bom1::iad1::4gdd7-1792687454762-c623e9a2d275
+[HEADER EXPOSED] https://www.cynbit.in/careers?_rsc=SCJVgjZa56qhWaZb... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.2ms | URL: https://www.cynbit.in/careers
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/se... -> x-vercel-id: bom1::kg6kd-1792687455062-5d070254c237
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/se... -> server: Vercel
+[HEADER EXPOSED] https://www.google.co.in/ads/ga-audiences?v=1&t=sr&slf_rd=1&... -> server: cafe
+[HEADER EXPOSED] https://stats.g.doubleclick.net/g/collect?v=2&ngs=1&ibt=1&ti... -> server: Golfe2
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/te... -> x-vercel-id: bom1::4gdd7-1792687455077-96aba7e5b437
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/te... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/st... -> x-vercel-id: bom1::4gdd7-1792687455078-195c1a1e7cd2
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/st... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/im... -> x-vercel-id: bom1::hlmpz-1792687455077-d34be6f7eac8
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/im... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/products?_rsc=SCJVgjZa56qhWaZb... -> x-vercel-id: bom1::kg6kd-1792687455077-15b0fc4bd86e
+[HEADER EXPOSED] https://www.cynbit.in/products?_rsc=SCJVgjZa56qhWaZb... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.3ms | URL: https://www.cynbit.in/products
+[HEADER EXPOSED] https://www.cynbit.in/bitelevate?_rsc=SCJVgjZa56qhWaZb... -> x-vercel-id: bom1::iad1::46jj7-1792687455081-63ac422dab5e
+[HEADER EXPOSED] https://www.cynbit.in/bitelevate?_rsc=SCJVgjZa56qhWaZb... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.6ms | URL: https://www.cynbit.in/bitelevate
+[HEADER EXPOSED] https://analytics.google.com/g/collect?v=2&tid=G-LK6CQWCWX0&... -> server: Golfe2
+[HEADER EXPOSED] https://fonts.gstatic.com/s/materialsymbolsoutlined/v380/kJE... -> server: sffe
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/pr... -> x-vercel-id: bom1::62d5w-1792687455222-122933919499
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/pr... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/contact?_rsc=SCJVgjZa56qhWaZb... -> x-vercel-id: bom1::iad1::kg6kd-1792687455222-b2863aa4646f
+[HEADER EXPOSED] https://www.cynbit.in/contact?_rsc=SCJVgjZa56qhWaZb... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.4ms | URL: https://www.cynbit.in/contact
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/bi... -> x-vercel-id: bom1::4gdd7-1792687455222-133f93a72ee9
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/bi... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/case-studies?_rsc=SCJVgjZa56qhWaZb... -> x-vercel-id: bom1::iad1::lvhld-1792687455077-2f1a0692b8ad
+[HEADER EXPOSED] https://www.cynbit.in/case-studies?_rsc=SCJVgjZa56qhWaZb... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.4ms | URL: https://www.cynbit.in/case-studies
+[HEADER EXPOSED] https://www.cynbit.in/bitelevate/paths?_rsc=SCJVgjZa56qhWaZb... -> x-vercel-id: bom1::iad1::jmfhv-1792687455093-a54fd0947d07
+[HEADER EXPOSED] https://www.cynbit.in/bitelevate/paths?_rsc=SCJVgjZa56qhWaZb... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.6ms | URL: https://www.cynbit.in/bitelevate/paths
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/co... -> x-vercel-id: bom1::lvhld-1792687455362-788609f45309
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/co... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/diaries?_rsc=SCJVgjZa56qhWaZb... -> x-vercel-id: bom1::iad1::46jj7-1792687455157-c7915f223767
+[HEADER EXPOSED] https://www.cynbit.in/diaries?_rsc=SCJVgjZa56qhWaZb... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.4ms | URL: https://www.cynbit.in/diaries
+[HEADER EXPOSED] https://www.cynbit.in/blog?_rsc=SCJVgjZa56qhWaZb... -> x-vercel-id: bom1::iad1::4gdd7-1792687455222-496d9fba2467
+[HEADER EXPOSED] https://www.cynbit.in/blog?_rsc=SCJVgjZa56qhWaZb... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.4ms | URL: https://www.cynbit.in/blog
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/bi... -> x-vercel-id: bom1::4gdd7-1792687455547-0a103cbf7d78
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/bi... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/blog/ai-agents-business-operations?_rs... -> x-vercel-id: bom1::iad1::pcxxp-1792687455363-cc39bf55c4ef
+[HEADER EXPOSED] https://www.cynbit.in/blog/ai-agents-business-operations?_rs... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.3ms | URL: https://www.cynbit.in/blog/ai-agents-business-operations
+
+=== [2] CLIENT INPUT VALIDATION AUDITS ===
+
+Testing route: https://www.cynbit.in/bitelevate/paths
+[HEADER EXPOSED] https://www.cynbit.in/bitelevate/paths... -> x-powered-by: Next.js
+[HEADER EXPOSED] https://www.cynbit.in/bitelevate/paths... -> x-vercel-id: bom1::iad1::kg6kd-1792687458232-2cff736e789e
+[HEADER EXPOSED] https://www.cynbit.in/bitelevate/paths... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/media/4c9affa5bc8f420e-s.... -> x-vercel-id: bom1::4gdd7-1792687454277-31adf8a29ec8
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/media/4c9affa5bc8f420e-s.... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/media/636a5ac981f94f8b-s.... -> x-vercel-id: bom1::4gdd7-1792687454292-9bdd3cec6ca3
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/media/636a5ac981f94f8b-s.... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/css/86d90d3d14dcd9cf.css... -> x-vercel-id: bom1::4gdd7-1792687454292-c977fdb37544
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/css/86d90d3d14dcd9cf.css... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/css/fb477f3bddb905c1.css... -> x-vercel-id: bom1::lvhld-1792687454292-77a5e18d2063
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/css/fb477f3bddb905c1.css... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/webpack-13fd2c27c7... -> x-vercel-id: bom1::g2khs-1792687454292-754c828868f9
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/webpack-13fd2c27c7... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/4bd1b696-100b9d70e... -> x-vercel-id: bom1::bxfts-1792687454292-5c0e6cef0f36
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/4bd1b696-100b9d70e... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/1255-eae4096fb21f1... -> x-vercel-id: bom1::p48r8-1792687454292-c5165bedeb4a
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/1255-eae4096fb21f1... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/main-app-0ee650784... -> x-vercel-id: bom1::hlmpz-1792687454292-6d989cb08b18
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/main-app-0ee650784... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/2619-04bc32f026a0d... -> x-vercel-id: bom1::4gdd7-1792687454303-eecc7aaa2619
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/2619-04bc32f026a0d... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/5563-f2fb65d9a5ac2... -> x-vercel-id: bom1::jmfhv-1792687454303-454bd9d4b6b8
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/5563-f2fb65d9a5ac2... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/error-8e289473... -> x-vercel-id: bom1::l7l4n-1792687454302-5502ea9915c1
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/error-8e289473... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/not-found-6bdc... -> x-vercel-id: bom1::2mgxz-1792687454302-e875feaeb8a0
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/not-found-6bdc... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/layout-0a45bc1... -> x-vercel-id: bom1::bkvgg-1792687454302-abc254b1014f
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/layout-0a45bc1... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/1356-2ed480e29f4f7... -> x-vercel-id: bom1::kg6kd-1792687454302-cc2659d8f447
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/1356-2ed480e29f4f7... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/4773-f4ec9607d8ab9... -> x-vercel-id: bom1::46jj7-1792687454303-98ffdd3083b9
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/4773-f4ec9607d8ab9... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/la... -> x-vercel-id: bom1::4wx5j-1792687454302-52619e5a2803
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/la... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/te... -> x-vercel-id: bom1::kbpz6-1792687454302-2fb92fe675ca
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/te... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/bi... -> x-vercel-id: bom1::4gdd7-1792687455547-0a103cbf7d78
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/bi... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/global-error-2... -> x-vercel-id: bom1::pcxxp-1792687454302-f6d4aa31f02d
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/global-error-2... -> server: Vercel
+[HEADER EXPOSED] https://www.googletagmanager.com/gtag/js?id=G-LK6CQWCWX0... -> server: Google Tag Manager
+[HEADER EXPOSED] https://fonts.googleapis.com/css2?family=Material+Symbols+Ou... -> server: ESF
+[HEADER EXPOSED] https://fonts.gstatic.com/s/materialsymbolsoutlined/v380/kJE... -> server: sffe
+[HEADER EXPOSED] https://www.cynbit.in/logo.svg... -> x-vercel-id: bom1::jmfhv-1792687458402-293c3fe37e1b
+[HEADER EXPOSED] https://www.cynbit.in/logo.svg... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/image?url=https%3A%2F%2Fi.pravat... -> x-vercel-id: bom1::cfz5z-1792687458482-e885883b589f
+[HEADER EXPOSED] https://www.cynbit.in/_next/image?url=https%3A%2F%2Fi.pravat... -> server: Vercel
+[IMAGE AUDIT] Over-sized width (w=1920) requested: https://www.cynbit.in/_next/image?url=https%3A%2F%2Fi.pravatar.cc%2F100%3Fimg%3D...
+[MOCK DATA DETECTED] Production asset proxying mock avatar: https://i.pravatar.cc/100?img=22
+[HEADER EXPOSED] https://www.cynbit.in/_next/image?url=https%3A%2F%2Fi.pravat... -> x-vercel-id: bom1::4gdd7-1792687458482-bbc2e75fa9fb
+[HEADER EXPOSED] https://www.cynbit.in/_next/image?url=https%3A%2F%2Fi.pravat... -> server: Vercel
+[IMAGE AUDIT] Over-sized width (w=1920) requested: https://www.cynbit.in/_next/image?url=https%3A%2F%2Fi.pravatar.cc%2F100%3Fimg%3D...
+[MOCK DATA DETECTED] Production asset proxying mock avatar: https://i.pravatar.cc/100?img=23
+[HEADER EXPOSED] https://www.cynbit.in/_next/image?url=https%3A%2F%2Fi.pravat... -> x-vercel-id: bom1::bkvgg-1792687458482-ad04af44b43d
+[HEADER EXPOSED] https://www.cynbit.in/_next/image?url=https%3A%2F%2Fi.pravat... -> server: Vercel
+[IMAGE AUDIT] Over-sized width (w=1920) requested: https://www.cynbit.in/_next/image?url=https%3A%2F%2Fi.pravatar.cc%2F100%3Fimg%3D...
+[MOCK DATA DETECTED] Production asset proxying mock avatar: https://i.pravatar.cc/100?img=21
+[HEADER EXPOSED] https://www.cynbit.in/icons/facebook.svg... -> x-vercel-id: bom1::62d5w-1792687458472-48f03ac33f3b
+[HEADER EXPOSED] https://www.cynbit.in/icons/facebook.svg... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/icons/linkedin.svg... -> x-vercel-id: bom1::kbpz6-1792687458467-f248105de430
+[HEADER EXPOSED] https://www.cynbit.in/icons/linkedin.svg... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/icons/instagram.svg... -> x-vercel-id: bom1::jmfhv-1792687458473-d01a7e143340
+[HEADER EXPOSED] https://www.cynbit.in/icons/instagram.svg... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/icons/twitter.svg... -> x-vercel-id: bom1::pcxxp-1792687458482-e39663a67254
+[HEADER EXPOSED] https://www.cynbit.in/icons/twitter.svg... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/icons/location.svg... -> x-vercel-id: bom1::2mgxz-1792687458482-a768cd829143
+[HEADER EXPOSED] https://www.cynbit.in/icons/location.svg... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/team?_rsc=uKXQGKP1lBKRu8A2... -> x-vercel-id: bom1::pcxxp-1792687458537-c1a141ed66a7
+[HEADER EXPOSED] https://www.cynbit.in/team?_rsc=uKXQGKP1lBKRu8A2... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.2ms | URL: https://www.cynbit.in/team
+[HEADER EXPOSED] https://www.cynbit.in/?_rsc=uKXQGKP1lBKRu8A2... -> x-vercel-id: bom1::jmfhv-1792687458537-195f63d9c62f
+[HEADER EXPOSED] https://www.cynbit.in/?_rsc=uKXQGKP1lBKRu8A2... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.3ms | URL: https://www.cynbit.in/
+[HEADER EXPOSED] https://www.cynbit.in/story?_rsc=uKXQGKP1lBKRu8A2... -> x-vercel-id: bom1::4gdd7-1792687458539-17baf89316d7
+[HEADER EXPOSED] https://www.cynbit.in/story?_rsc=uKXQGKP1lBKRu8A2... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.4ms | URL: https://www.cynbit.in/story
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/te... -> x-vercel-id: bom1::4gdd7-1792687455077-96aba7e5b437
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/te... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/pa... -> x-vercel-id: bom1::4gdd7-1792687454314-9dd9f7233cf2
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/pa... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/st... -> x-vercel-id: bom1::4gdd7-1792687455078-195c1a1e7cd2
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/st... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/impact?_rsc=uKXQGKP1lBKRu8A2... -> x-vercel-id: bom1::62d5w-1792687458537-c4f7d1045d53
+[HEADER EXPOSED] https://www.cynbit.in/impact?_rsc=uKXQGKP1lBKRu8A2... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.2ms | URL: https://www.cynbit.in/impact
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/im... -> x-vercel-id: bom1::hlmpz-1792687455077-d34be6f7eac8
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/im... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/products?_rsc=uKXQGKP1lBKRu8A2... -> x-vercel-id: bom1::4gdd7-1792687458657-e957a26aafcd
+[HEADER EXPOSED] https://www.cynbit.in/products?_rsc=uKXQGKP1lBKRu8A2... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.2ms | URL: https://www.cynbit.in/products
+[HEADER EXPOSED] https://www.cynbit.in/services?_rsc=uKXQGKP1lBKRu8A2... -> x-vercel-id: bom1::62d5w-1792687458662-4cb5a7a965e6
+[HEADER EXPOSED] https://www.cynbit.in/services?_rsc=uKXQGKP1lBKRu8A2... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.3ms | URL: https://www.cynbit.in/services
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/pr... -> x-vercel-id: bom1::62d5w-1792687455222-122933919499
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/pr... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/se... -> x-vercel-id: bom1::kg6kd-1792687455062-5d070254c237
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/se... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/bitelevate?_rsc=uKXQGKP1lBKRu8A2... -> x-vercel-id: bom1::iad1::2mgxz-1792687458672-d64ede121296
+[HEADER EXPOSED] https://www.cynbit.in/bitelevate?_rsc=uKXQGKP1lBKRu8A2... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.4ms | URL: https://www.cynbit.in/bitelevate
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/bi... -> x-vercel-id: bom1::4gdd7-1792687455222-133f93a72ee9
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/bi... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/careers?_rsc=uKXQGKP1lBKRu8A2... -> x-vercel-id: bom1::iad1::kbpz6-1792687458537-72492175fd5a
+[HEADER EXPOSED] https://www.cynbit.in/careers?_rsc=uKXQGKP1lBKRu8A2... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.5ms | URL: https://www.cynbit.in/careers
+[HEADER EXPOSED] https://www.cynbit.in/contact?_rsc=uKXQGKP1lBKRu8A2... -> x-vercel-id: bom1::iad1::kbpz6-1792687458792-01aad324bf0a
+[HEADER EXPOSED] https://www.cynbit.in/contact?_rsc=uKXQGKP1lBKRu8A2... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.3ms | URL: https://www.cynbit.in/contact
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/co... -> x-vercel-id: bom1::lvhld-1792687455362-788609f45309
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/co... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/case-studies?_rsc=uKXQGKP1lBKRu8A2... -> x-vercel-id: bom1::iad1::jmfhv-1792687458657-d2e3faa35f61
+[HEADER EXPOSED] https://www.cynbit.in/case-studies?_rsc=uKXQGKP1lBKRu8A2... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.2ms | URL: https://www.cynbit.in/case-studies
+[HEADER EXPOSED] https://www.cynbit.in/diaries?_rsc=uKXQGKP1lBKRu8A2... -> x-vercel-id: bom1::iad1::bkvgg-1792687458792-826444cb5016
+[HEADER EXPOSED] https://www.cynbit.in/diaries?_rsc=uKXQGKP1lBKRu8A2... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.9ms | URL: https://www.cynbit.in/diaries
+[HEADER EXPOSED] https://www.cynbit.in/blog?_rsc=uKXQGKP1lBKRu8A2... -> x-vercel-id: bom1::iad1::cfz5z-1792687458792-98fd359e2068
+[HEADER EXPOSED] https://www.cynbit.in/blog?_rsc=uKXQGKP1lBKRu8A2... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.2ms | URL: https://www.cynbit.in/blog
+
+Testing route: https://www.cynbit.in/services
+[HEADER EXPOSED] https://www.cynbit.in/services... -> x-vercel-id: bom1::4gdd7-1792687459542-197e2e028298
+[HEADER EXPOSED] https://www.cynbit.in/services... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/media/4c9affa5bc8f420e-s.... -> x-vercel-id: bom1::4gdd7-1792687454277-31adf8a29ec8
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/media/4c9affa5bc8f420e-s.... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/media/636a5ac981f94f8b-s.... -> x-vercel-id: bom1::4gdd7-1792687454292-9bdd3cec6ca3
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/media/636a5ac981f94f8b-s.... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/css/86d90d3d14dcd9cf.css... -> x-vercel-id: bom1::4gdd7-1792687454292-c977fdb37544
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/css/86d90d3d14dcd9cf.css... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/css/fb477f3bddb905c1.css... -> x-vercel-id: bom1::lvhld-1792687454292-77a5e18d2063
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/css/fb477f3bddb905c1.css... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/webpack-13fd2c27c7... -> x-vercel-id: bom1::g2khs-1792687454292-754c828868f9
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/webpack-13fd2c27c7... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/4bd1b696-100b9d70e... -> x-vercel-id: bom1::bxfts-1792687454292-5c0e6cef0f36
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/4bd1b696-100b9d70e... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/1255-eae4096fb21f1... -> x-vercel-id: bom1::p48r8-1792687454292-c5165bedeb4a
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/1255-eae4096fb21f1... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/main-app-0ee650784... -> x-vercel-id: bom1::hlmpz-1792687454292-6d989cb08b18
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/main-app-0ee650784... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/2619-04bc32f026a0d... -> x-vercel-id: bom1::4gdd7-1792687454303-eecc7aaa2619
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/2619-04bc32f026a0d... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/5563-f2fb65d9a5ac2... -> x-vercel-id: bom1::jmfhv-1792687454303-454bd9d4b6b8
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/5563-f2fb65d9a5ac2... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/error-8e289473... -> x-vercel-id: bom1::l7l4n-1792687454302-5502ea9915c1
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/error-8e289473... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/not-found-6bdc... -> x-vercel-id: bom1::2mgxz-1792687454302-e875feaeb8a0
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/not-found-6bdc... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/layout-0a45bc1... -> x-vercel-id: bom1::bkvgg-1792687454302-abc254b1014f
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/layout-0a45bc1... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/1356-2ed480e29f4f7... -> x-vercel-id: bom1::kg6kd-1792687454302-cc2659d8f447
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/1356-2ed480e29f4f7... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/4773-f4ec9607d8ab9... -> x-vercel-id: bom1::46jj7-1792687454303-98ffdd3083b9
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/4773-f4ec9607d8ab9... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/la... -> x-vercel-id: bom1::4wx5j-1792687454302-52619e5a2803
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/la... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/te... -> x-vercel-id: bom1::kbpz6-1792687454302-2fb92fe675ca
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/te... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/se... -> x-vercel-id: bom1::kg6kd-1792687455062-5d070254c237
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/se... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/global-error-2... -> x-vercel-id: bom1::pcxxp-1792687454302-f6d4aa31f02d
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/global-error-2... -> server: Vercel
+[HEADER EXPOSED] https://www.googletagmanager.com/gtag/js?id=G-LK6CQWCWX0... -> server: Google Tag Manager
+[HEADER EXPOSED] https://fonts.googleapis.com/css2?family=Material+Symbols+Ou... -> server: ESF
+[HEADER EXPOSED] https://fonts.gstatic.com/s/materialsymbolsoutlined/v380/kJE... -> server: sffe
+[HEADER EXPOSED] https://www.cynbit.in/icons/facebook.svg... -> x-vercel-id: bom1::kbpz6-1792687459707-a1614fd5721b
+[HEADER EXPOSED] https://www.cynbit.in/icons/facebook.svg... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/icons/instagram.svg... -> x-vercel-id: bom1::cfz5z-1792687459707-20248b25c853
+[HEADER EXPOSED] https://www.cynbit.in/icons/instagram.svg... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/icons/linkedin.svg... -> x-vercel-id: bom1::4gdd7-1792687459707-1a7854d3d21c
+[HEADER EXPOSED] https://www.cynbit.in/icons/linkedin.svg... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/icons/location.svg... -> x-vercel-id: bom1::kg6kd-1792687459707-dcaf29ed26ee
+[HEADER EXPOSED] https://www.cynbit.in/icons/location.svg... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/icons/twitter.svg... -> x-vercel-id: bom1::bkvgg-1792687459707-086e9fa00fb8
+[HEADER EXPOSED] https://www.cynbit.in/icons/twitter.svg... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/logo.svg... -> x-vercel-id: bom1::62d5w-1792687459711-2a86cf89d49b
+[HEADER EXPOSED] https://www.cynbit.in/logo.svg... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/impact?_rsc=BfmOdm2eC0e4WaXw... -> x-vercel-id: bom1::4gdd7-1792687459762-c4e58f97cf5d
+[HEADER EXPOSED] https://www.cynbit.in/impact?_rsc=BfmOdm2eC0e4WaXw... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.2ms | URL: https://www.cynbit.in/impact
+[HEADER EXPOSED] https://www.cynbit.in/team?_rsc=BfmOdm2eC0e4WaXw... -> x-vercel-id: bom1::bkvgg-1792687459762-78e5e136842a
+[HEADER EXPOSED] https://www.cynbit.in/team?_rsc=BfmOdm2eC0e4WaXw... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.2ms | URL: https://www.cynbit.in/team
+[HEADER EXPOSED] https://www.cynbit.in/story?_rsc=BfmOdm2eC0e4WaXw... -> x-vercel-id: bom1::pcxxp-1792687459762-8770637a7f98
+[HEADER EXPOSED] https://www.cynbit.in/story?_rsc=BfmOdm2eC0e4WaXw... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.4ms | URL: https://www.cynbit.in/story
+[HEADER EXPOSED] https://www.cynbit.in/?_rsc=BfmOdm2eC0e4WaXw... -> x-vercel-id: bom1::62d5w-1792687459767-18c80316e242
+[HEADER EXPOSED] https://www.cynbit.in/?_rsc=BfmOdm2eC0e4WaXw... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.2ms | URL: https://www.cynbit.in/
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/im... -> x-vercel-id: bom1::hlmpz-1792687455077-d34be6f7eac8
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/im... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/te... -> x-vercel-id: bom1::4gdd7-1792687455077-96aba7e5b437
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/te... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/st... -> x-vercel-id: bom1::4gdd7-1792687455078-195c1a1e7cd2
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/st... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/pa... -> x-vercel-id: bom1::4gdd7-1792687454314-9dd9f7233cf2
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/pa... -> server: Vercel
+[HEADER EXPOSED] https://analytics.google.com/g/collect?v=2&tid=G-LK6CQWCWX0&... -> server: Golfe2
+[HEADER EXPOSED] https://analytics.google.com/g/collect?v=2&tid=G-LK6CQWCWX0&... -> server: Golfe2
+[HEADER EXPOSED] https://www.cynbit.in/careers?_rsc=BfmOdm2eC0e4WaXw... -> x-vercel-id: bom1::iad1::kg6kd-1792687459762-641ec7e043c6
+[HEADER EXPOSED] https://www.cynbit.in/careers?_rsc=BfmOdm2eC0e4WaXw... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.4ms | URL: https://www.cynbit.in/careers
+[HEADER EXPOSED] https://www.cynbit.in/products?_rsc=BfmOdm2eC0e4WaXw... -> x-vercel-id: bom1::pcxxp-1792687459977-7888af20d62f
+[HEADER EXPOSED] https://www.cynbit.in/products?_rsc=BfmOdm2eC0e4WaXw... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.4ms | URL: https://www.cynbit.in/products
+[HEADER EXPOSED] https://www.cynbit.in/bitelevate/paths?_rsc=BfmOdm2eC0e4WaXw... -> x-vercel-id: bom1::iad1::4gdd7-1792687459977-cc6760f05279
+[HEADER EXPOSED] https://www.cynbit.in/bitelevate/paths?_rsc=BfmOdm2eC0e4WaXw... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.2ms | URL: https://www.cynbit.in/bitelevate/paths
+[HEADER EXPOSED] https://www.cynbit.in/bitelevate?_rsc=BfmOdm2eC0e4WaXw... -> x-vercel-id: bom1::iad1::hlmpz-1792687459977-653f0673d39f
+[HEADER EXPOSED] https://www.cynbit.in/bitelevate?_rsc=BfmOdm2eC0e4WaXw... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.2ms | URL: https://www.cynbit.in/bitelevate
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/pr... -> x-vercel-id: bom1::62d5w-1792687455222-122933919499
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/pr... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/bi... -> x-vercel-id: bom1::4gdd7-1792687455547-0a103cbf7d78
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/bi... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/bi... -> x-vercel-id: bom1::4gdd7-1792687455222-133f93a72ee9
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/bi... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/contact?_rsc=BfmOdm2eC0e4WaXw... -> x-vercel-id: bom1::iad1::cfz5z-1792687460097-b5b8609cbb83
+[HEADER EXPOSED] https://www.cynbit.in/contact?_rsc=BfmOdm2eC0e4WaXw... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.2ms | URL: https://www.cynbit.in/contact
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/co... -> x-vercel-id: bom1::lvhld-1792687455362-788609f45309
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/co... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/case-studies?_rsc=BfmOdm2eC0e4WaXw... -> x-vercel-id: bom1::iad1::2mgxz-1792687459977-3ec3009d1eb3
+[HEADER EXPOSED] https://www.cynbit.in/case-studies?_rsc=BfmOdm2eC0e4WaXw... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.3ms | URL: https://www.cynbit.in/case-studies
+[HEADER EXPOSED] https://www.cynbit.in/blog?_rsc=BfmOdm2eC0e4WaXw... -> x-vercel-id: bom1::iad1::hlmpz-1792687460097-4f94284227b4
+[HEADER EXPOSED] https://www.cynbit.in/blog?_rsc=BfmOdm2eC0e4WaXw... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.3ms | URL: https://www.cynbit.in/blog
+[HEADER EXPOSED] https://www.cynbit.in/diaries?_rsc=BfmOdm2eC0e4WaXw... -> x-vercel-id: bom1::iad1::4gdd7-1792687460091-71be22f40867
+[HEADER EXPOSED] https://www.cynbit.in/diaries?_rsc=BfmOdm2eC0e4WaXw... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.4ms | URL: https://www.cynbit.in/diaries
+
+Testing route: https://www.cynbit.in/products
+[HEADER EXPOSED] https://www.cynbit.in/products... -> x-vercel-id: bom1::pcxxp-1792687460877-4592d9201e7d
+[HEADER EXPOSED] https://www.cynbit.in/products... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/media/4c9affa5bc8f420e-s.... -> x-vercel-id: bom1::4gdd7-1792687454277-31adf8a29ec8
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/media/4c9affa5bc8f420e-s.... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/media/636a5ac981f94f8b-s.... -> x-vercel-id: bom1::4gdd7-1792687454292-9bdd3cec6ca3
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/media/636a5ac981f94f8b-s.... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/css/86d90d3d14dcd9cf.css... -> x-vercel-id: bom1::4gdd7-1792687454292-c977fdb37544
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/css/86d90d3d14dcd9cf.css... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/css/fb477f3bddb905c1.css... -> x-vercel-id: bom1::lvhld-1792687454292-77a5e18d2063
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/css/fb477f3bddb905c1.css... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/webpack-13fd2c27c7... -> x-vercel-id: bom1::g2khs-1792687454292-754c828868f9
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/webpack-13fd2c27c7... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/4bd1b696-100b9d70e... -> x-vercel-id: bom1::bxfts-1792687454292-5c0e6cef0f36
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/4bd1b696-100b9d70e... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/1255-eae4096fb21f1... -> x-vercel-id: bom1::p48r8-1792687454292-c5165bedeb4a
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/1255-eae4096fb21f1... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/main-app-0ee650784... -> x-vercel-id: bom1::hlmpz-1792687454292-6d989cb08b18
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/main-app-0ee650784... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/2619-04bc32f026a0d... -> x-vercel-id: bom1::4gdd7-1792687454303-eecc7aaa2619
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/2619-04bc32f026a0d... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/5563-f2fb65d9a5ac2... -> x-vercel-id: bom1::jmfhv-1792687454303-454bd9d4b6b8
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/5563-f2fb65d9a5ac2... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/error-8e289473... -> x-vercel-id: bom1::l7l4n-1792687454302-5502ea9915c1
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/error-8e289473... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/not-found-6bdc... -> x-vercel-id: bom1::2mgxz-1792687454302-e875feaeb8a0
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/not-found-6bdc... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/layout-0a45bc1... -> x-vercel-id: bom1::bkvgg-1792687454302-abc254b1014f
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/layout-0a45bc1... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/1356-2ed480e29f4f7... -> x-vercel-id: bom1::kg6kd-1792687454302-cc2659d8f447
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/1356-2ed480e29f4f7... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/4773-f4ec9607d8ab9... -> x-vercel-id: bom1::46jj7-1792687454303-98ffdd3083b9
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/4773-f4ec9607d8ab9... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/la... -> x-vercel-id: bom1::4wx5j-1792687454302-52619e5a2803
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/la... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/te... -> x-vercel-id: bom1::kbpz6-1792687454302-2fb92fe675ca
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/te... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/pr... -> x-vercel-id: bom1::62d5w-1792687455222-122933919499
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/pr... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/global-error-2... -> x-vercel-id: bom1::pcxxp-1792687454302-f6d4aa31f02d
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/global-error-2... -> server: Vercel
+[HEADER EXPOSED] https://www.googletagmanager.com/gtag/js?id=G-LK6CQWCWX0... -> server: Google Tag Manager
+[HEADER EXPOSED] https://fonts.googleapis.com/css2?family=Material+Symbols+Ou... -> server: ESF
+[HEADER EXPOSED] https://fonts.gstatic.com/s/materialsymbolsoutlined/v380/kJE... -> server: sffe
+[HEADER EXPOSED] https://www.cynbit.in/logo.svg... -> x-vercel-id: bom1::cfz5z-1792687461072-b84a1f249071
+[HEADER EXPOSED] https://www.cynbit.in/logo.svg... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/icons/linkedin.svg... -> x-vercel-id: bom1::2mgxz-1792687461102-c8aeae73dc13
+[HEADER EXPOSED] https://www.cynbit.in/icons/linkedin.svg... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/icons/instagram.svg... -> x-vercel-id: bom1::bxfts-1792687461102-69f0da2dd7ab
+[HEADER EXPOSED] https://www.cynbit.in/icons/instagram.svg... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/icons/location.svg... -> x-vercel-id: bom1::4gdd7-1792687461136-025fb627a9b1
+[HEADER EXPOSED] https://www.cynbit.in/icons/location.svg... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/icons/twitter.svg... -> x-vercel-id: bom1::jmfhv-1792687461136-2c7901160d45
+[HEADER EXPOSED] https://www.cynbit.in/icons/twitter.svg... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/icons/facebook.svg... -> x-vercel-id: bom1::bkvgg-1792687461136-f237a9d1a59a
+[HEADER EXPOSED] https://www.cynbit.in/icons/facebook.svg... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/?_rsc=iNpXprnWj7GJ72go... -> x-vercel-id: bom1::jmfhv-1792687461277-da7c7f8fa888
+[HEADER EXPOSED] https://www.cynbit.in/?_rsc=iNpXprnWj7GJ72go... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.6ms | URL: https://www.cynbit.in/
+[HEADER EXPOSED] https://www.cynbit.in/story?_rsc=iNpXprnWj7GJ72go... -> x-vercel-id: bom1::bkvgg-1792687461322-3a476848f52b
+[HEADER EXPOSED] https://www.cynbit.in/story?_rsc=iNpXprnWj7GJ72go... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -15.4ms | URL: https://www.cynbit.in/story
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/pa... -> x-vercel-id: bom1::4gdd7-1792687454314-9dd9f7233cf2
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/pa... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/st... -> x-vercel-id: bom1::4gdd7-1792687455078-195c1a1e7cd2
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/st... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/impact?_rsc=iNpXprnWj7GJ72go... -> x-vercel-id: bom1::4gdd7-1792687461327-1b2ae7165375
+[HEADER EXPOSED] https://www.cynbit.in/impact?_rsc=iNpXprnWj7GJ72go... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.3ms | URL: https://www.cynbit.in/impact
+[HEADER EXPOSED] https://www.cynbit.in/team?_rsc=iNpXprnWj7GJ72go... -> x-vercel-id: bom1::jmfhv-1792687461322-5cd3884064b5
+[HEADER EXPOSED] https://www.cynbit.in/team?_rsc=iNpXprnWj7GJ72go... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -4.0ms | URL: https://www.cynbit.in/team
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/im... -> x-vercel-id: bom1::hlmpz-1792687455077-d34be6f7eac8
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/im... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/te... -> x-vercel-id: bom1::4gdd7-1792687455077-96aba7e5b437
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/te... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/bitelevate?_rsc=iNpXprnWj7GJ72go... -> x-vercel-id: bom1::iad1::cfz5z-1792687461522-db7470ea3f84
+[HEADER EXPOSED] https://www.cynbit.in/bitelevate?_rsc=iNpXprnWj7GJ72go... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.3ms | URL: https://www.cynbit.in/bitelevate
+[HEADER EXPOSED] https://www.cynbit.in/careers?_rsc=iNpXprnWj7GJ72go... -> x-vercel-id: bom1::iad1::sgdc5-1792687461322-92f8d5fcac0f
+[HEADER EXPOSED] https://www.cynbit.in/careers?_rsc=iNpXprnWj7GJ72go... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.9ms | URL: https://www.cynbit.in/careers
+[HEADER EXPOSED] https://www.cynbit.in/bitelevate/paths?_rsc=iNpXprnWj7GJ72go... -> x-vercel-id: bom1::iad1::2mgxz-1792687461522-c4fabec62c5a
+[HEADER EXPOSED] https://www.cynbit.in/bitelevate/paths?_rsc=iNpXprnWj7GJ72go... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.2ms | URL: https://www.cynbit.in/bitelevate/paths
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/bi... -> x-vercel-id: bom1::4gdd7-1792687455222-133f93a72ee9
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/bi... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/bi... -> x-vercel-id: bom1::4gdd7-1792687455547-0a103cbf7d78
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/bi... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/services?_rsc=iNpXprnWj7GJ72go... -> x-vercel-id: bom1::lvhld-1792687461522-cd8d9beb6728
+[HEADER EXPOSED] https://www.cynbit.in/services?_rsc=iNpXprnWj7GJ72go... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.3ms | URL: https://www.cynbit.in/services
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/se... -> x-vercel-id: bom1::kg6kd-1792687455062-5d070254c237
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/se... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/contact?_rsc=iNpXprnWj7GJ72go... -> x-vercel-id: bom1::iad1::2mgxz-1792687461652-4c41dd451a79
+[HEADER EXPOSED] https://www.cynbit.in/contact?_rsc=iNpXprnWj7GJ72go... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.2ms | URL: https://www.cynbit.in/contact
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/co... -> x-vercel-id: bom1::lvhld-1792687455362-788609f45309
+[HEADER EXPOSED] https://www.cynbit.in/_next/static/chunks/app/(marketing)/co... -> server: Vercel
+[HEADER EXPOSED] https://www.cynbit.in/case-studies?_rsc=iNpXprnWj7GJ72go... -> x-vercel-id: bom1::iad1::jmfhv-1792687461522-deb1100a2cde
+[HEADER EXPOSED] https://www.cynbit.in/case-studies?_rsc=iNpXprnWj7GJ72go... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.3ms | URL: https://www.cynbit.in/case-studies
+[HEADER EXPOSED] https://www.cynbit.in/blog?_rsc=iNpXprnWj7GJ72go... -> x-vercel-id: bom1::iad1::cfz5z-1792687461652-4a884ee22036
+[HEADER EXPOSED] https://www.cynbit.in/blog?_rsc=iNpXprnWj7GJ72go... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.1ms | URL: https://www.cynbit.in/blog
+[HEADER EXPOSED] https://www.cynbit.in/diaries?_rsc=iNpXprnWj7GJ72go... -> x-vercel-id: bom1::iad1::sgdc5-1792687461652-536a83a8988a
+[HEADER EXPOSED] https://www.cynbit.in/diaries?_rsc=iNpXprnWj7GJ72go... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.3ms | URL: https://www.cynbit.in/diaries
+[HEADER EXPOSED] https://www.cynbit.in/blog/future-saas-development?_rsc=iNpX... -> x-vercel-id: bom1::iad1::lvhld-1792687461662-9e650120bb87
+[HEADER EXPOSED] https://www.cynbit.in/blog/future-saas-development?_rsc=iNpX... -> server: Vercel
+[RSC PREFETCH] Status: 200 | Duration: -1.4ms | URL: https://www.cynbit.in/blog/future-saas-development
+  [EMAIL INPUT] Value: '999@r' | Browser Valid: True | Message: ''
+
+=== AUDIT COMPLETED ===
